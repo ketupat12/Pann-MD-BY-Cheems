@@ -70,7 +70,7 @@ global.botscript = 'https://www.instagram.com/bcrstore2022/?hl=en' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "KINTO Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄KINTO BOT" //ur sticker watermark author
+global.author = "@ramadhani_r5🦄" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
